@@ -1,0 +1,5 @@
+#+TITLE: MzSawfishWM
+
+* Sawfish WM for myself
+
+: Don't let the best WM run away.

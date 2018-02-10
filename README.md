@@ -1,2 +1,0 @@
-# MzSawfishWM
-Sawfish WM
